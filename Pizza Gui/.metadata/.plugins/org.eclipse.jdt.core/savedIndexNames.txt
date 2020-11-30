@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\49157\Schule\Java_Schule\Eclipse Aufgaben\Eclipse 2020-09\Pizza Gui\.metadata\.plugins\org.eclipse.jdt.core
+495363174.index
+1289320443.index
